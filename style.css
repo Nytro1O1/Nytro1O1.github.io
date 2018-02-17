@@ -100,7 +100,7 @@ p{
 /* Add a black background color to the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: #e9e9e9;
+    background-color: black;
 }
 
 /* Style the links inside the navigation bar */
