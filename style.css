@@ -1,6 +1,8 @@
 .headings{
   border: 10px solid blue;
   background: green;
+body{
+	background:lightblue;
 }
 li{
     color: 7px green;
