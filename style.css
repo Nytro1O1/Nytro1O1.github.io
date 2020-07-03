@@ -3,11 +3,11 @@
   background: gray;
 }
 li{
-    color: 7px green;
-    color: green;
+    color: 7px black;
+    color: black;
 }
 .list {
-    border: 7px dashed blue;
+    border: 7px solid black;
     background-color: gray;
 }
 img{
