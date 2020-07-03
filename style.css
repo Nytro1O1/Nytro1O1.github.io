@@ -1,6 +1,6 @@
 .headings{
   border: 10px solid black;
-  background: gray;
+  background: #a69e9a;
 }
 li{
     color: 7px black;
@@ -8,11 +8,11 @@ li{
 }
 .list {
     border: none;
-    background-color: gray;
+    background-color: #a69e9a;
 }
 .List {
     border: none;
-    background-color: gray;
+    background-color: #a69e9a;
 }
 img{
     display: block;
