@@ -1,6 +1,6 @@
 .headings{
   border: 10px solid black;
-  background: #e8e2df;
+  background: #b7bec9;
 }
 li{
     color: 7px black;
@@ -8,11 +8,11 @@ li{
 }
 .list {
     border: none;
-    background-color: #e8e2df;
+    background-color: #b7bec9;
 }
 .List {
     border: none;
-    background-color: #e8e2df;
+    background-color: #b7bec9;
 }
 img{
     display: block;
@@ -107,7 +107,7 @@ p{
 /* Add a black background color to the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: gray;
+    background-color: #b7bec9;
 }
 
 /* Style the links inside the navigation bar */
